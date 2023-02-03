@@ -1,0 +1,23 @@
+{
+  "name": "discordbot_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/bot.js",
+    "dev": "nodemon ./src/bot.js"
+  },
+  "keywords": [],
+  "author": "Alvin Pollard",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.2.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.11",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+    "epic-free-games": "^4.0.1",
+    "node-cron": "^3.0.2"
+  }
+}
