@@ -12,12 +12,13 @@
   "author": "Alvin Pollard",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/rest": "^1.2.0",
-    "chalk": "^4.1.2",
-    "discord-api-types": "^0.37.11",
-    "discord.js": "^14.5.0",
+    "@discordjs/rest": "^1.5.0",
+    "chalk": "^5.2.0",
+    "discord-api-types": "^0.37.31",
+    "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
     "epic-free-games": "^4.0.1",
-    "node-cron": "^3.0.2"
+    "node-cron": "^3.0.2",
+    "npm-check-updates": "^16.6.3"
   }
 }
